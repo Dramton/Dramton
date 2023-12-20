@@ -1,16 +1,13 @@
-### Hi there 👋
+##👋 Hello, I'm Micha! Welcome to my GitHub profile.
 
-<!--
-**Dramton/Dramton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a student based in Germany. I enjoy learning new things, coding and reading.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on nothing but projects are coming soon.
+- 🌱 I’m currently learning to code in python.
+
+  ## Contact
+
+- 📧 Email: dramtonnotmard@gmail.com
+- 💬 Intagram: Micha.Hee
